@@ -9,3 +9,9 @@ Currently porting this over to ReactJS frontend.
 - Port to ReactJS frontend
 - Generate random room names (similar to skribblio)
 - Upload to server hosting
+
+For now, simply run
+
+```
+$ npm i && npm start
+```
