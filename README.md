@@ -17,7 +17,7 @@ $ npm i && npm start
 - Upload to server hosting
 
 ## Node Package Modules Used
-- Express (for backend)
-- Socket.io (for communication between clients)
-- Moment (for getting current time)
+- [Express](https://expressjs.com/) (for backend)
+- [Socket.io](https://socket.io/) (for communication between clients)
+- [Moment](https://momentjs.com/) (for getting current time)
 
