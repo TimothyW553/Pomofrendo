@@ -5,13 +5,19 @@ This project currently uses HTML + JavaScript on the frontend and Socket.io + No
 
 Currently porting this over to ReactJS frontend.
 
-## TODO: 
-- Port to ReactJS frontend
-- Generate random room names (similar to skribblio)
-- Upload to server hosting
-
 For now, simply run
 
 ```
 $ npm i && npm start
 ```
+
+## TODO: 
+- Port to ReactJS frontend
+- Generate random room names (similar to skribblio)
+- Upload to server hosting
+
+## Node Package Modules Used
+- Express (for backend)
+- Socket.io (for communication between clients)
+- Moment (for getting current time)
+
