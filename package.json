@@ -1,0 +1,28 @@
+{
+  "name": "pomofrendo",
+  "version": "1.0.0",
+  "description": "instant message app to syncronize a Pomodoro study timer with friends",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimothyW553/Pomofrendo.git"
+  },
+  "author": "Timothy Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimothyW553/Pomofrendo/issues"
+  },
+  "homepage": "https://github.com/TimothyW553/Pomofrendo#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "moment": "^2.29.1",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
