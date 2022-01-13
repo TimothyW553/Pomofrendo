@@ -6,5 +6,6 @@ This project currently uses HTML + JavaScript on the frontend and Socket.io + No
 Currently porting this over to ReactJS frontend.
 
 ## TODO: 
-- Port to ReactJS frontend.
+- Port to ReactJS frontend
+- Generate random room names (similar to skribblio)
 - Upload to server hosting
