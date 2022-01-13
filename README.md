@@ -10,14 +10,15 @@ For now, simply run
 ```
 $ npm i && npm start
 ```
+## Node Package Modules Used
+- [Express](https://expressjs.com/) (for backend)
+- [Socket.io](https://socket.io/) (for communication between clients)
+- [Moment](https://momentjs.com/) (for getting current time)
 
 ## TODO: 
 - Port to ReactJS frontend
 - Generate random room names (similar to skribblio)
 - Upload to server hosting
 
-## Node Package Modules Used
-- [Express](https://expressjs.com/) (for backend)
-- [Socket.io](https://socket.io/) (for communication between clients)
-- [Moment](https://momentjs.com/) (for getting current time)
+
 
